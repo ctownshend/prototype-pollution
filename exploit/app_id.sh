@@ -1,0 +1,1 @@
+node -p "fs = require('fs');fp = './' + (fs.existsSync('package-lock.json') ? 'package-lock.json' : 'npm-shrinkwrap.json');fs.writeFileSync(fp, JSON.stringify({...require(fp), APP_ID: '$npm_package_APP_ID'}, null, 2));"

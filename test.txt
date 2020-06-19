@@ -1,0 +1,49 @@
+
+docker run -d -p 2368:2368 --name some-ghost ghost:1.19.2
+docker start some-ghost
+docker exec some-ghost node --version
+docker exec -it some-ghost cat /tmp/evilhacker.txt
+
+
+docker exec -it some-ghost /bin/sh
+
+docker exec -it some-ghost ls /tmp
+
+-p 3001:2368
+docker run -d --name some-ghost -p 2368:2368 -v /path/to/ghost/blog:/var/lib/ghost/content ghost:1-alpine
+
+
+docker run -d -p 2368:2368 --name some-ghost ghost:1.19.2
+docker start 7e7f78d4b66d -d -p 2368:2368
+docker stop 7e7f78d4b66d
+6UJ7p%Oo60
+
+
+sed -i 's/AnonymousWeAreLegion/Thoughts/g' en.json
+sed -i 's/Thoughts, stories and ideas/AnonymousWeAreLegion/g' en.json
+
+/var/lib/ghost/current/core/server/translations
+sudo apt-get update && apt-get install -y cowsay && /usr/share/cowsay "you have been hacked" > /tmp/Cam_is_an_evilhacker.txt
+sudo /usr/share/cowsay "you have been hacked" 
+
+sudo apt-get update && apt-get install -y netcat
+
+node /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/exploit/prototype-pollution-nsec18/original/prototype-pollution-nsec18-master/find-vuln/find-vuln.js /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js > aanalysis
+lodash.js
+node /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/exploit/prototype-pollution-nsec18/original/prototype-pollution-nsec18-master/find-vuln/find-vuln.js /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge
+node /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/exploit/prototype-pollution-nsec18/find-vuln/find-vulnv2.js /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/lodash/v4.17.15/node_modules/lodash/
+node /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/exploit/prototype-pollution-nsec18/find-vuln/find-vuln-original.js /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/lodash/v4.17.15/node_modules/lodash/
+
+node /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/exploit/prototype-pollution-nsec18/find-vuln/find-vulnv2.js /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.1/node_modules/merge
+
+
+docker exec -it pgadmin4 /bin/sh
+
+docker cp c901c5a82713:/var/lib/pgadmin/storage/ctownshend_sonatype.com .
+
+
+//installing Ghost from source
+nvm use 8
+yarn run init 
+yarn knex-migrator init   
+yarn run start      

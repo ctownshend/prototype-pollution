@@ -1,0 +1,8 @@
+recursive
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js.recursive (function ({}, BAD_JSON))
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js.recursive (function ({}, {}, BAD_JSON))
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js.recursive (function ({}, {}, {}, BAD_JSON))
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js (function ({}, BAD_JSON))
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js (function ({}, {}, BAD_JSON))
+Detected : /Users/camerontownshend/Documents/Cameron/dev/learnVulnerabilities/prototype-pollution/npm_libraries/merge/v1.2.0/node_modules/merge/merge.js (function ({}, {}, {}, BAD_JSON))
+clone
